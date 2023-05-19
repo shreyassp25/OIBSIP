@@ -12,5 +12,5 @@ Algorithm that can be used for predicting and get accuracy are -
 4. LOGISTIC REGRESSION
 5. metrics
 6. train_test_split
-For this project iris dataset from kaggle has been used.
+<br>For this project iris dataset from kaggle has been used.</br>
 
