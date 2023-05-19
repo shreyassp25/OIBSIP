@@ -3,7 +3,7 @@
 <img src="https://miro.medium.com/max/875/1*7bnLKsChXq94QjtAiRn40w.png">
 
 This Project is completed using application of machine learning with python programming.
-It focuses on IRIS flower classification using Machine Learning with logistic regression and scikit tools. 
+It focuses on IRIS flower classification using Logistic regression. 
 
 Algorithm that can be used for predicting and get accuracy are -
 1. Dicision tree classifier 
